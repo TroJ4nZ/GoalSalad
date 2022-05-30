@@ -1,7 +1,7 @@
 #include <windows.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include <iostream>
+
 #include <GL/gl.h>
 #include <GL/glu.h>
 #include <GL/glut.h>
@@ -401,7 +401,7 @@ void goal() {
     glTranslatef(7.5,2,2.2);
     glScalef(1,0.5,1);
     glRotatef(90,1,0,0);
-    gluCylinder(goalPostRight, 0.15, 0.1, 4, 20, 20);
+    gluCylinder(goalPostLeft, 0.15, 0.1, 4, 20, 20);
     glPopMatrix();
 }
 

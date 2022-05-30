@@ -1,5 +1,13 @@
 # depslib dependency file v1.0
-1641764767 source:d:\new coding folder\term 5\codeblocks\goalsalad\goalsalad\main.cpp
+1653907892 source:d:\new coding folder\term 5\codeblocks\goalsalad\goalsalad\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1653906580 source:d:\new coding folder\term 5\codeblocks\goalsalad\goalsalad\main.c
 	<windows.h>
 	<stdlib.h>
 	<stdio.h>
